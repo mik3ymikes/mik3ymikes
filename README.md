@@ -20,7 +20,10 @@ Currently enrolled in a Full-Stack Web Developer bootcamp learning, html, css, j
   </a>
 </p>
 
-<!--
+
+(https://streak-stats.demolab.com/?user=mik3ymikes)
+
+
 **mik3ymikes/mik3ymikes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
