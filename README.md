@@ -7,7 +7,11 @@
 
 <hr>
 <h2 align="center"> Languages/Frameworks </h2>
-
+p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <!--
 **mik3ymikes/mik3ymikes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
