@@ -2,6 +2,8 @@
 
 ### Heeeey you guuuuys! 👋
 
+Husband, TwinDad, Teacher, Future Software Developer.
+
 
 
 
