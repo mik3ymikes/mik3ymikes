@@ -27,6 +27,6 @@ Currently enrolled in a Full-Stack Web Developer bootcamp learning, html, css, j
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mik3ymikes)](https://git.io/streak-stats)
 </div>
 
-**mik3ymikes/mik3ymikes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
