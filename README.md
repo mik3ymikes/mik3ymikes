@@ -4,6 +4,7 @@
 
 Husband, TwinDad, Teacher, Future Software Developer.
 
+Currently enrolled in a Full-Stack Web Developer Bootcamp learning, html, css, javascript, typescript, angular, bootstrap, and much more! 
 
 
 
