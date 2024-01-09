@@ -23,8 +23,9 @@ Currently enrolled in a Full-Stack Web Developer bootcamp learning, html, css, j
 <br>
 
 <div align="center">
-  
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mik3ymikes)](https://git.io/streak-stats)
+  
 </div>
 
 
