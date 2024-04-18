@@ -2,7 +2,7 @@
 
 ### Heeeey you guuuuys! 👋
 
-Husband, TwinDad, Teacher, Future Software Developer.
+Husband, TwinDad, Teacher, Software Developer.
 
 Currently enrolled in a Full-Stack Web Developer bootcamp learning, html, css, javascript, typescript, angular, bootstrap, and much more! 
 
